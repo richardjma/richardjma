@@ -39,3 +39,12 @@ Housekeeper
 ```
 - Cedar point **OHIO**.
 - Programa Work and Travel.
+
+## Estos son los 5 comandos 
+|Comando   | Definición|
+|----------|----------------------|
+|whoami    | usuario actual |
+|mkdir	   | make directory |
+|cat       | concatenate and print files |
+|ls 	   | list directory contents |
+|df        | espacio libre disco duro |
