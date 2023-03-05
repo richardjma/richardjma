@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hello, I'm Richard Micán
 
-<!--
-**richardjma/richardjma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I studied Enviromental Biology in Bogotá 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I´m a **new learner in the big world of development** actually I live in a little town nearly to Bogotá.
+
+Some day I would like to become in a **developer expert** and can mix bouth awesome professional areas.
+
+------
+
+## **Sobre mí**:
+
+
+> Biólogo Ambiental en curso a Magister en Ciencias Ambientales. A lo largo de la carrera realicé diferentes prácticas de campo.
+**con muestreos de fauna y flora.**
+**Muestreos ambientales:** Agua, Suelo, Mediciones espaciales.
+
+Para realizar diferentes análisis como:
+- Distribución.
+- Diversidad.
+- Tallas.
+- Demanda.
+- Producción de oxígeno.
+- Etc.
+
+
+> ### Experiencia profesional.
+
+```sh
+Auxiliar de laboratorio
+```
+- Utadeo Bogotá.
+- Apoyo en claases de laboratorio.
+- Manejo de instrumentos, equipos y ractivos.
+```sh
+Housekeeper
+```
+- Cedar point **OHIO**.
+- Programa Work and Travel.
