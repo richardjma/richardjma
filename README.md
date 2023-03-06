@@ -48,3 +48,9 @@ Housekeeper
 |cat       | concatenate and print files |
 |ls 	   | list directory contents |
 |df        | espacio libre disco duro |
+
+## Estos son los comandos alias
+|**Alias**  | **Comando**    |
+|-----------|----------------|
+| gaa       | git add --all  |
+| gcam      | git commit -a -m|
